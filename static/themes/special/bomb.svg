@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- 炸弹主体 -->
+  <circle cx="32" cy="40" r="18" fill="#333" stroke="#000" stroke-width="2"/>
+  
+  <!-- 炸弹高光 -->
+  <ellipse cx="26" cy="34" rx="4" ry="6" fill="#555" opacity="0.7"/>
+  
+  <!-- 引线 -->
+  <line x1="32" y1="22" x2="32" y2="10" stroke="#8B4513" stroke-width="3"/>
+  
+  <!-- 火花 -->
+  <circle cx="32" cy="8" r="3" fill="#FF4500"/>
+  <circle cx="30" cy="6" r="1" fill="#FFD700"/>
+  <circle cx="34" cy="6" r="1" fill="#FFD700"/>
+  <circle cx="32" cy="4" r="1" fill="#FFD700"/>
+</svg>
